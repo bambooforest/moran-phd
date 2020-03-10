@@ -16,8 +16,8 @@ This is a searchable PDF version of my PhD dissertation titled "Phonetics Inform
 
 My advisors were:
 
-* [https://faculty.washington.edu/ebender/](Emily M. Bender)
-* [https://linguistics.washington.edu/people/richard-wright](Richard Wright)
+* [Emily M. Bender](https://faculty.washington.edu/ebender/)
+* [Richard Wright](https://linguistics.washington.edu/people/richard-wright)
 
 
 
