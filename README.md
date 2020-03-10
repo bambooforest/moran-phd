@@ -1,8 +1,8 @@
-# moran-phd
+# Steven Moran PhD dissertation
 
 This is a searchable PDF version of my PhD dissertation titled "Phonetics Information Base and Lexicon" from the University of Washington, Seattle.
 
-(http://hdl.handle.net/1773/22452)[http://hdl.handle.net/1773/22452]
+[http://hdl.handle.net/1773/22452](http://hdl.handle.net/1773/22452)
 
 ```
 @phdthesis{Moran2012,
@@ -16,8 +16,8 @@ This is a searchable PDF version of my PhD dissertation titled "Phonetics Inform
 
 My advisors were:
 
-* (https://faculty.washington.edu/ebender/)[Emily M. Bender]
-* (https://linguistics.washington.edu/people/richard-wright)[Richard Wright]
+* [https://faculty.washington.edu/ebender/](Emily M. Bender)
+* [https://linguistics.washington.edu/people/richard-wright](Richard Wright)
 
 
 
