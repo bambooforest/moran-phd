@@ -1,4 +1,4 @@
-# Steven Moran PhD dissertation
+# Steven Moran's PhD dissertation
 
 This is a searchable PDF version of my PhD dissertation titled "Phonetics Information Base and Lexicon" from the University of Washington, Seattle. It is published online: [http://hdl.handle.net/1773/22452](http://hdl.handle.net/1773/22452).
 
